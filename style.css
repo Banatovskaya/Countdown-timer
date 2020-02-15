@@ -1,0 +1,15 @@
+.text{
+    font-size: 5em;
+    text-align: center;
+
+}
+.timer{
+    font-size: 15em;
+    text-align: center;
+    background-color:black;
+    color:white;
+    display: flex;
+    justify-content: center;
+    
+}
+
